@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c750f5563eb263f46a43b2886e50f6c1
+  m_SerializeEntries:
+  - m_GUID: 5402a01cd21d20d46824ff2934781b1d
+    m_Address: Assets/Textures/new wall.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 0
+  - m_GUID: 19aa3a5c76ca2b040aafb0cea799864e
+    m_Address: Assets/Textures/circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 1
+  - m_GUID: 54c228c9d80017b4ba1046acc23b1d1c
+    m_Address: Assets/Textures/check.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 2
+  - m_GUID: ba576760b2331fd4aa8c07478010ba4f
+    m_Address: Assets/Textures/bricks.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 3
+  - m_GUID: 45c1b56521baf8d48a124462b56ed3ec
+    m_Address: Assets/Textures/food sprite.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 4
+  - m_GUID: dffef66376be4fa480fb02b19edbe903
+    m_Address: Assets/Textures/EmojiOne.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dae8e9fdff15bcc4798512cdfcadfe95, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1da371c8aa3cc1e46bf8429049919eea, type: 2}
+    - {fileID: 11400000, guid: 45b6f0d9f00423a44a32bbf36e72d21b, type: 2}
