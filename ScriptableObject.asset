@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47d872845f6f1b4f99664018e044f06, type: 3}
+  m_Name: ScriptableObject
+  m_EditorClassIdentifier: 
+  sphereData:
+  - color: {r: 0.14772677, g: 1, b: 0, a: 1}
+    texture: {fileID: 2800000, guid: 5402a01cd21d20d46824ff2934781b1d, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: 5402a01cd21d20d46824ff2934781b1d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 5
+    Scale: {x: 5, y: 5, z: 5}
+  - color: {r: 1, g: 0.56770635, b: 0.0141509175, a: 1}
+    texture: {fileID: 2800000, guid: ba576760b2331fd4aa8c07478010ba4f, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: ba576760b2331fd4aa8c07478010ba4f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 15
+    Scale: {x: 5.5, y: 5.5, z: 5.5}
+  - color: {r: 0, g: 1, b: 0.9043484, a: 1}
+    texture: {fileID: 2800000, guid: 19aa3a5c76ca2b040aafb0cea799864e, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: 19aa3a5c76ca2b040aafb0cea799864e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 25
+    Scale: {x: 6, y: 6, z: 6}
+  - color: {r: 1, g: 0.0141509175, b: 0.9353575, a: 1}
+    texture: {fileID: 2800000, guid: 45c1b56521baf8d48a124462b56ed3ec, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: 45c1b56521baf8d48a124462b56ed3ec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 35
+    Scale: {x: 6.6, y: 6.5, z: 6.5}
+  - color: {r: 1, g: 0.9532509, b: 0, a: 1}
+    texture: {fileID: 2800000, guid: dffef66376be4fa480fb02b19edbe903, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: dffef66376be4fa480fb02b19edbe903
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 45
+    Scale: {x: 7, y: 7, z: 7}
+  - color: {r: 0.9622642, g: 0, b: 0, a: 1}
+    texture: {fileID: 2800000, guid: 54c228c9d80017b4ba1046acc23b1d1c, type: 3}
+    assetReferenceTextures:
+      m_AssetGUID: 54c228c9d80017b4ba1046acc23b1d1c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    RotateSpeed: 55
+    Scale: {x: 7.5, y: 7.5, z: 7.5}
